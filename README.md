@@ -22,5 +22,5 @@ python3.6 site_to_pdf.py
 ## Contribution
 Any kind of contribution will be appreciated. :heart:
 
-## licence
+## Licence
 MIT
